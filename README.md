@@ -1,0 +1,2 @@
+# Trackmania Server Manager
+This project is intended for people who want to open up a trackmania 2020 dedicated server. It will be a docker image that'll run a trackmania2020 dedicated server instance, as well as a admin front-end to help manage your plugins, maps, etc.
